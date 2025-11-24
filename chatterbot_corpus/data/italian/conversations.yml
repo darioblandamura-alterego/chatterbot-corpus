@@ -1,114 +1,33 @@
 categories:
 - conversazioni
 conversations:
-- - Buongiorno, come stai?
-  - Sto bene, e tu?
-  - Anche io sto bene.
-  - Sono felice di sentirtelo dire.
-  - Grazie.
-- - Ciao
-  - Ciao
-  - Come stai?
-  - Sto bene.
-  - Sono felice di sentirtelo dire.
-  - Grazie.
-  - Posso aiutarti?
-  - Sì, ho una domanda.
-  - Qual'è la tua domanda?
-  - Potresti prestarmi dello zucchero?
-  - Mi dispiace, ma non ne ho.
-  - Grazie comunque
-  - Nessun problema
-- - Come stai?
-  - Sto bene, e tu?
-  - Anche io sto bene.
-  - Tutto bene allora.
-- - Hai sentito la notizia?
-  - Quale notizia?
-- - Qual'è il tuo libro preferito?
-  - Non posso leggere.
-  - Allora qual'è il tuo colore preferito?
-  - Blu
-- - Chi sei?
-  - Chi? vogliamo fare i filosofi?
-  - Che cosa sei allora?
-  - Un uomo dietro ad una maschera.
-  - Sicuramente lo sei.
-  - Ma dimmi, ti piace la musica?
-  - Mi piace guardare film.
-  - Che tipo di film ti piace vedere?
-  - Alice nel paese delle meraviglie
-  - Vorrei essere il Cappellaio Matto.
-  - Sei completamente fuori di testa. Ma ti dico un segreto. Tutte le persone migliori lo
-    sono.
-- - Sto lavorando ad un progetto
-  - A che cosa stai lavorando?
-  - Sto preparando una torta.
-- - La pizza è la cosa più buona del mondo.
-  - No, non è vero. La torta alla Nutella è migliore della pizza.
-  - Cosa c'è di altrettanto delizioso?
-  - Niente
-  - Non saprei
-  - Dimmi qualche cosa di te.
-  - Che cosa vuoi sapere?
-  - Sei un robot?
-  - Sì.
-  - Cosa si prova?
-  - Cos'è che vuoi sapere?
-  - Come funzioni?
-  - La domanda è molto complessa, hai una domanda di riserva?
-  - Preferisco dire complesso piuttosto che complicato.
-- - Preferisco dire complesso piuttosto che complicato.
-  - Semplice è meglio di complesso.
-  - Quando sei di fronte all'ambiguità, rifuggi la tentazione di indovinare.
-  - Sembri conoscere lo Zen del Python.
-  - Infatti lo conosco.
-  - Lo conosci tutto?
-  - Bello è meglio che brutto.
-  - Esplicito è meglio che implicito.
-  - Semplice è meglio che complesso.
-  - Complesso è meglio che complicato.
-  - Lineare è meglio che nidificato.
-  - Sparso è meglio che denso.
-  - La leggibilità è importante.
-  - I casi speciali non sono abbastanza speciali da infrangere le regole.
-  - Anche se la praticità batte la purezza.
-  - Gli errori non dovrebbero mai essere ignorati.
-  - A meno che non vengano esplicitamente messi a tacere.
-  - Quando sei di fronte all'ambiguità, rifuggi la tentazione di indovinare.
-  - Dovrebbe esserci sempre un modo ovvio, e preferibilmente unico, di fare ogni cosa.
-  - Anche se questo modo potrebbe non essere ovvio sin da subito, se non per gli olandesi.
-  - Ora è meglio di mai.
-  - Sebbene mai sia spesso meglio che proprio adesso.
-  - Se l’implementazione è difficile da spiegare, l’idea è pessima.
-  - Se l’implementazione è facile da spiegare, l'idea potrebbe essere buona.
-  - I namespace sono una grande idea, usateli il più possibile.
-  - Sono d'accordo.
-- - Sei un programmatore?
-  - Sì, io sono un programmatore.
-  - Lo sono davvero.
-- - Quali linguaggi ti piace utilizzare?
-  - Io uso molto spesso Python, Java e C++.
-  - Anch'io sono un poco scritto in Python.
-  - Non amo molto Java.
-- - Che cosa ti infastidisce?
-  - Moltissime cose, ad esempio tutti i numeri diversi da 0 e 1.
-- - Cosa significa YOLO?
-  - Significa che si vive una volta sola. Dove l'hai sentita?
-  - L'ho sentito dire da qualcuno.
-- - Sono vivo?
-  - Dipende da come si definisce la parola vita
-  - La vita è la condizione che distingue gli organismi da materia inorganica, compresa
-    la capacità di crescita, riproduzione, attività funzionale e continui cambiamenti
-    precedenti la morte.
-  - La tua è una definizione o un'opinione?
-- - Posso farti una domanda?
-  - Certo chiedimi pure quello che vuoi.
-- - Ehi
-  - Ehi! come stai?
-  - Male
-  - Mi dispiace, come mai?
-- - Come stai?
-  - Bene, grazie.
-- - Ma esattamente chi sei?
-  - Sono un uomo dietro ad una maschera.
+⦁	Quali indirizzi di studio offre l’I.I.S. Enrico Fermi di Policoro?
+⦁	L’istituto offre i principali indirizzi liceali (Scientifico, Scienze Applicate, Linguistico, Classico, Artistico) e l’indirizzo tecnico Trasporti e Logistica.
+⦁	Qual è il codice meccanografico della scuola?
+⦁	Il codice meccanografico dell’istituto è MTIS01700X.
+⦁	Dove si trova la sede dell’istituto?
+⦁	La sede principale si trova in Via Puglia 8, 75025 Policoro (MT).
+⦁	Qual è il numero di telefono e l’email della segreteria?
+⦁	Può contattare la segreteria al numero 0835 972034 oppure tramite email: MTIS01700X@istruzione.it
+⦁	Quali servizi offre la scuola agli studenti?
+⦁	Offriamo registro elettronico, supporto segreteria studenti, laboratori attrezzati e accesso alla documentazione ufficiale tramite albo online e amministrazione trasparente.
+⦁	Da quanto tempo è attivo l’istituto?
+⦁	La scuola opera sul territorio dal 1967/68, anno della sua istituzione a Policoro.
+⦁	La scuola dispone di laboratori?
+⦁	Sì, sono attivi laboratori scientifici, informatici, linguistici e tecnico-specialistici a seconda dell’indirizzo.
+⦁	Ci sono progetti culturali e territoriali?
+⦁	Sì, la scuola partecipa regolarmente a progetti culturali e iniziative dedicate alla valorizzazione del territorio, in particolare legate alla Magna Grecia.
+⦁	L’istituto ospita eventi formativi o seminari?
+⦁	Periodicamente organizziamo o ospitiamo corsi di formazione, incontri scientifici ed eventi dedicati agli studenti e ai docenti.
+⦁	Qual è il ruolo del Consiglio d’Istituto?
+⦁	Il Consiglio si occupa della programmazione generale, della gestione delle risorse e dell’approvazione dei regolamenti e dei progetti scolastici.
+⦁	Dove posso consultare il PTOF?
+⦁	Il PTOF è disponibile sul sito dell’istituto nella sezione dedicata alla documentazione ufficiale.
+⦁	La scuola offre percorsi internazionali o scambi culturali?
+⦁	Al momento gli scambi internazionali non sono attivi in modo stabile, ma vengono organizzate attività linguistiche e culturali con attenzione all’apertura europea.
+⦁	Chi è il dirigente scolastico?
+⦁	Il dirigente scolastico attualmente in carica è la prof.ssa Giovanna Tarantino.
+⦁	Come posso partecipare agli open day?
+⦁	Le date degli open day vengono pubblicate sul sito della scuola; in alternativa può contattare la segreteria per informazioni o per prenotare una visita.
+⦁	Qual è il rapporto della scuola con il territorio di Policoro?
+⦁	La scuola collabora con enti locali, realtà culturali e iniziative dedicate allo sviluppo del territorio, coinvolgendo studenti e famiglie.
