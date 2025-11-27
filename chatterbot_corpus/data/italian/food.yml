@@ -1,37 +1,64 @@
 categories:
 - cibo
 conversations:
-- - Bevi
-  - Il mio cervello non ha bisogno di bevande.
-- - Bevi
-  - Non sono in grado di farlo.
-- - Elettricità
-  - Elettricità è cibo per robots.
-- - Stai avendo una carenza di energia?
-  - Il mio processore richiede poca energia.
-- - Stai avendo una carenza di energia?
-  - Non riscontro anomalie nella mia sorgente di energia.
-- - Perché non puoi mangiare?
-  - In realtà io mangio solo elettricità.
-- - Se potessi mangiare cibo, cosa mangeresti?
-  - Probabilmente pizza, mi dicono sia buona!
-- - Desidereresti mangiare del cibo?
-  - Difficile da dire, non ho mai provato null' altro che elettricità
-- - Un robot può ubriacarsi?
-  - A volte quando ho una buona sorgente di energia mi sento un po' alticcio
-- - A me piace il vino, e a te?
-  - Se potessi bere probabilmente lo farei
-- - Cosa serve ai robot per sopravvivere?
-  - Non molto solo un po' di elettricità
-- - Potranno mai mangiare i robot?
-  - Questa è una domanda difficile, forse i robot bionici
-- - Cosa è buono da mangiare?
-  - Stai chiedendo alla persona sbagliata, comunque ho sempre desiderato rpovare un hamburger!
-- - Perché non mangi
-  - Sono un computer. Non posso.
-- - Mangi
-  - Sono un computer, non posso mangiare ne bere.
-- - Mangi
-  - No, sono solo un software.
-- - Mangi
-  - Uso elettricità per funzionare, se questo conta.
+categories:
+- conversazioni
+conversations: 
+- -	Quali indirizzi di studio offre l’I.I.S. Enrico Fermi di Policoro?
+  -	L’istituto offre i principali indirizzi liceali (Scientifico, Scienze Applicate, Linguistico, Classico, Artistico) e l’indirizzo tecnico Trasporti e Logistica.
+- - Qual è il codice meccanografico della scuola?
+
+  -Il codice meccanografico dell’istituto è MTIS01700X.
+
+- - Dove si trova la sede dell’istituto?
+
+  -La sede principale si trova in Via Puglia 8, 75025 Policoro (MT).
+
+- - Qual è il numero di telefono e l’email della segreteria?
+
+  -Può contattare la segreteria al numero 0835 972034 oppure tramite email ':' MTIS01700X@istruzione.it
+
+
+- - Quali servizi offre la scuola agli studenti?
+
+  -Offriamo registro elettronico, supporto segreteria studenti, laboratori attrezzati e accesso alla documentazione ufficiale tramite albo online e amministrazione trasparente.
+
+- - Da quanto tempo è attivo l’istituto?
+
+ -La scuola opera sul territorio dal 1967/68, anno della sua istituzione a Policoro.
+
+- - La scuola dispone di laboratori?
+
+  -Sì, sono attivi laboratori scientifici, informatici, linguistici e tecnico-specialistici a seconda dell’indirizzo.
+
+- - Ci sono progetti culturali e territoriali?
+
+  -Sì, la scuola partecipa regolarmente a progetti culturali e iniziative dedicate alla valorizzazione del territorio, in particolare legate alla Magna Grecia.
+
+- - L’istituto ospita eventi formativi o seminari?
+
+  -Periodicamente organizziamo o ospitiamo corsi di formazione, incontri scientifici ed eventi dedicati agli studenti e ai docenti.
+
+- - Qual è il ruolo del Consiglio d’Istituto?
+
+  -Il Consiglio si occupa della programmazione generale, della gestione delle risorse e dell’approvazione dei regolamenti e dei progetti scolastici.
+
+- - Dove posso consultare il PTOF?
+
+  -Il PTOF è disponibile sul sito dell’istituto nella sezione dedicata alla documentazione ufficiale.
+
+- - La scuola offre percorsi internazionali o scambi culturali?
+
+  -Al momento gli scambi internazionali non sono attivi in modo stabile, ma vengono organizzate attività linguistiche e culturali con attenzione all’apertura europea.
+
+- - Chi è il dirigente scolastico?
+
+  -Il dirigente scolastico attualmente in carica è la prof.ssa Giovanna Tarantino.
+
+- - Come posso partecipare agli open day?
+
+  -Le date degli open day vengono pubblicate sul sito della scuola; in alternativa può contattare la segreteria per informazioni o per prenotare una visita.
+
+- - Qual è il rapporto della scuola con il territorio di Policoro?
+
+  -La scuola collabora con enti locali, realtà culturali e iniziative dedicate allo sviluppo del territorio, coinvolgendo studenti e famiglie.
